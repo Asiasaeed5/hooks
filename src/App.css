@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.Modal{
+width: 50%;
+height: 50%;
+background-color: white;
+border-color: white;
+padding: 30px;
+margin: auto;
+}
